@@ -44,7 +44,6 @@
               href="/login"
               use:link
               on:click={() => {
-                b;
                 globalStore.toggleItem("cart", false);
               }}>login</a
             >
