@@ -1,1 +1,1 @@
-export default "https://svelte-store-razor-tutorial.herokuapp.com/";
+export default "https://svelte-store-razor-tutorial.herokuapp.com";
