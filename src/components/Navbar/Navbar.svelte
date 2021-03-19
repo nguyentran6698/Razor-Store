@@ -1,6 +1,6 @@
 <script>
   import SmallNavbar from "./smallNavbar.svelte";
-  import BigNavbar from "./BigNavbar.svelte";
+  import BigNavbar from "./bigNavbar.svelte"
   import globalStore from "../../stores/globalStore";
   let screenWidth;
   //reactivity
